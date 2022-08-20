@@ -4,7 +4,7 @@ The Pytorch implementation is [WongKinYiu/yolov7](https://github.com/WongKinYiu/
 
 ## environment
 
-win10  vs2019 cuda10.2 cudnn7.6.5 tensorrt7.0
+### win10  vs2019 cuda10.2 cudnn7.6.5 tensorrt7.0
 
 ## Different versions of yolov7
 

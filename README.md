@@ -53,9 +53,7 @@ change model_check = "-s" -s is generate engine   also model_check = "-d" is run
 <img src="https://github.com/QIANXUNZDL123/tensorrtx-yolov7/blob/master/result/yolov7e6e-car.jpg">
 </p>
 
-## Acknowledgements
-- https://github.com/wang-xinyu/tensorrtx
-- https://github.com/Carnon/trt_yolov7
+
 
 
 
